@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 28,
+    "companyName": "TechNova Solutions",
+    "imageSrc": "https://randomuser.me/api/portraits/men/32.jpg",
+    "website": "https://technova.com",
+    "email": "john.doe@technova.com",
+    "phone": "+1-202-555-0147"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Williams",
+    "age": 34,
+    "companyName": "Creative Minds Studio",
+    "imageSrc": "https://randomuser.me/api/portraits/women/44.jpg",
+    "website": "https://creativeminds.com",
+    "email": "sarah.williams@creativeminds.com",
+    "phone": "+1-202-555-0198"
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "age": 41,
+    "companyName": "FutureSoft Inc.",
+    "imageSrc": "https://randomuser.me/api/portraits/men/65.jpg",
+    "website": "https://futuresoft.com",
+    "email": "michael.brown@futuresoft.com",
+    "phone": "+1-202-555-0112"
+  }
+]
